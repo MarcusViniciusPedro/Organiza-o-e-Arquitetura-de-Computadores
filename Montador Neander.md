@@ -1,7 +1,3 @@
-# Organiza-e-Arquitetura-de-Computadores
-
-Atividades relacionadas ao uso do Neander (Assembly) e Linguagem C
-
 // Modo de Uso:
 // 1. Compile e Execute o código (Dê preferência na utilização do Dev C++)
 // 2. Ao inicializar o código, será criado automaticamente um arquivo chamado "Entrada.asm", antes de realizar qualquer
